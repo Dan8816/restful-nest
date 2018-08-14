@@ -1,0 +1,26 @@
+{
+  "name": "endangeredSpecies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phil-krull/endangeredSpecies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phil-krull/endangeredSpecies/issues"
+  },
+  "homepage": "https://github.com/phil-krull/endangeredSpecies#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7",
+    "path": "^0.12.7"
+  }
+}
